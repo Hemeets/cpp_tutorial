@@ -9,7 +9,7 @@ int main() {
     cout << str << endl;
 
     // C++ 风格：string
-    string str2 = "hello world";
+    string str2 = "hello world";  // 可能需要#include<string>
     cout << str2 << endl;
     
     return 0;
