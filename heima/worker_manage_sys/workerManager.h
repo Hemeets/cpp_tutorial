@@ -4,8 +4,10 @@ using namespace std;
 
 class WorkerManager
 {
-    public:
-    WorkerManager();
+public:
+    WorkerManager();  // 构造函数
 
-    ~WorkerManager();
+    void Show_Menu();  // 展示函数
+
+    ~WorkerManager();  // 析构函数
 };
